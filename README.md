@@ -76,9 +76,9 @@ FastAPI + Qiskit application for randomness generation and statistical analysis.
 
 ## 📫 Connect
 
-- LinkedIn
+- LinkedIn-https://www.linkedin.com/in/alimineti-anirudh-42b4aa292/
 - Portfolio
-- Email
+- Email-anirudhsriramulu92@gmail.com
 
 ---
 
