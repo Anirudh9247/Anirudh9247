@@ -64,25 +64,6 @@ Real-time crypto market analytics platform with AI-powered insights.
 ### ⚛ Quantum Random Number Generator
 FastAPI + Qiskit application for randomness generation and statistical analysis.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🏆 Coding Profiles
 
